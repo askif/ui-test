@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   UI test template
-</p>
+</h1>
 
 ### Quick Start
 
@@ -8,4 +8,4 @@
   > sh ui-test.sh
 ```
 
-This shellscript has responsible for bringing docker container up and executing UI test.
+This shellscript has responsible for bringing up docker container and executing UI test.
